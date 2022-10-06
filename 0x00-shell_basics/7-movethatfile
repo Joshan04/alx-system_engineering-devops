@@ -6,3 +6,5 @@ rm /tmp/betty/tmp/my_first_directory
 rm /tmp/betty/tmp/my_first_directory
 #! /bin/bash
 rm /tmp/betty/tmp/my_first_directory
+#! /bin/bash
+mv /tmp/betty/tmp/my_first_directory
